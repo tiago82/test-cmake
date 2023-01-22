@@ -1,0 +1,5 @@
+C:/Users/Tiago/source/repos/test cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiago/source/repos/test cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Tiago/source/repos/test cmake/out/build/x64-debug/test cmake/CMakeFiles/CMakeTarget.dir
+C:/Users/Tiago/source/repos/test cmake/out/build/x64-debug/test cmake/CMakeFiles/edit_cache.dir
+C:/Users/Tiago/source/repos/test cmake/out/build/x64-debug/test cmake/CMakeFiles/rebuild_cache.dir

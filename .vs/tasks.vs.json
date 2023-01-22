@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-test cmake",
+      "appliesTo": "test cmake/",
+      "type": "launch"
+    }
+  ]
+}
